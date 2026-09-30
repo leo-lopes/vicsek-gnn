@@ -1,0 +1,21 @@
+data	nome	origem	ruido	eta	Lx	Ly	rho	N	init	transiente	passos	semente	phi	erro	chi	binder	ms_passo
+2026-09-27 17:37	oraculo_angular_e0.40_L64x64_r0.5_aleatorio_s1	oraculo_angular_e0.40	angular	0.4	64	64	0.5	2048	aleatorio	10000	20000	1	0.06097	0.00121	2.0332	0.34554	6.33
+2026-09-27 17:44	angular_m4_hist_GBL_e60_L64x64_r0.5_aleatorio_s1	angular_m4_hist_GBL_e60	angular	0.4	64	64	0.5	2048	aleatorio	10000	20000	1	0.05837	0.00126	1.8993	0.33712	12.86
+2026-09-27 17:47	oraculo_angular_e0.40_L64x64_r0.75_aleatorio_s1	oraculo_angular_e0.40	angular	0.4	64	64	0.75	3072	aleatorio	10000	20000	1	0.09521	0.00362	7.0707	0.37742	6.41
+2026-09-27 17:55	angular_m4_hist_GBL_e60_L64x64_r0.75_aleatorio_s1	angular_m4_hist_GBL_e60	angular	0.4	64	64	0.75	3072	aleatorio	10000	20000	1	0.09634	0.00246	7.9309	0.33529	15.32
+2026-09-27 17:59	oraculo_angular_e0.40_L64x64_r1_aleatorio_s1	oraculo_angular_e0.40	angular	0.4	64	64	1.0	4096	aleatorio	10000	20000	1	0.16313	0.01220	25.0113	0.42303	7.22
+2026-09-27 18:08	angular_m4_hist_GBL_e60_L64x64_r1_aleatorio_s1	angular_m4_hist_GBL_e60	angular	0.4	64	64	1.0	4096	aleatorio	10000	20000	1	0.19114	0.01468	28.1533	0.47266	18.56
+2026-09-27 18:12	oraculo_angular_e0.40_L64x64_r2_aleatorio_s1	oraculo_angular_e0.40	angular	0.4	64	64	2.0	8192	aleatorio	10000	20000	1	0.55415	0.00198	4.8938	0.66418	8.28
+2026-09-27 18:55	angular_m4_hist_GBL_e60_L64x64_r2_aleatorio_s1	angular_m4_hist_GBL_e60	angular	0.4	64	64	2.0	8192	aleatorio	10000	20000	1	0.55571	0.00187	4.8557	0.66417	84.49
+2026-09-27 19:00	oraculo_angular_e0.40_L64x64_r4_aleatorio_s1	oraculo_angular_e0.40	angular	0.4	64	64	4.0	16384	aleatorio	10000	20000	1	0.66387	0.00127	2.0547	0.66629	10.82
+2026-09-27 19:51	angular_m4_hist_GBL_e60_L64x64_r4_aleatorio_s1	angular_m4_hist_GBL_e60	angular	0.4	64	64	4.0	16384	aleatorio	10000	20000	1	0.66364	0.00107	2.3059	0.66625	101.17
+2026-09-27 19:55	oraculo_vetorial_e0.55_L64x64_r0.125_aleatorio_s1	oraculo_vetorial_e0.55	vetorial	0.55	64	64	0.125	512	aleatorio	10000	20000	1	0.07462	0.00130	0.7675	0.33889	7.60
+2026-09-27 20:02	vetorial_m4_hist_GBL_e60_L64x64_r0.125_aleatorio_s1	vetorial_m4_hist_GBL_e60	vetorial	0.55	64	64	0.125	512	aleatorio	10000	20000	1	0.07513	0.00150	0.7914	0.32948	12.74
+2026-09-27 20:05	oraculo_vetorial_e0.55_L64x64_r0.25_aleatorio_s1	oraculo_vetorial_e0.55	vetorial	0.55	64	64	0.25	1024	aleatorio	10000	20000	1	0.09906	0.00256	2.4643	0.37397	6.91
+2026-09-27 20:12	vetorial_m4_hist_GBL_e60_L64x64_r0.25_aleatorio_s1	vetorial_m4_hist_GBL_e60	vetorial	0.55	64	64	0.25	1024	aleatorio	10000	20000	1	0.10238	0.00271	2.5597	0.37784	13.19
+2026-09-27 20:16	oraculo_vetorial_e0.55_L64x64_r1_aleatorio_s1	oraculo_vetorial_e0.55	vetorial	0.55	64	64	1.0	4096	aleatorio	10000	20000	1	0.73354	0.00110	1.4876	0.66578	7.78
+2026-09-27 20:26	vetorial_m4_hist_GBL_e60_L64x64_r1_aleatorio_s1	vetorial_m4_hist_GBL_e60	vetorial	0.55	64	64	1.0	4096	aleatorio	10000	20000	1	0.74133	0.00165	1.2859	0.66591	21.28
+2026-09-27 20:31	oraculo_vetorial_e0.55_L64x64_r2_aleatorio_s1	oraculo_vetorial_e0.55	vetorial	0.55	64	64	2.0	8192	aleatorio	10000	20000	1	0.81226	0.00059	0.6793	0.66650	9.10
+2026-09-27 20:51	vetorial_m4_hist_GBL_e60_L64x64_r2_aleatorio_s1	vetorial_m4_hist_GBL_e60	vetorial	0.55	64	64	2.0	8192	aleatorio	10000	20000	1	0.81218	0.00055	0.6536	0.66651	39.79
+2026-09-27 20:57	oraculo_vetorial_e0.55_L64x64_r4_aleatorio_s1	oraculo_vetorial_e0.55	vetorial	0.55	64	64	4.0	16384	aleatorio	10000	20000	1	0.85549	0.00058	0.4296	0.66662	11.86
+2026-09-27 21:43	vetorial_m4_hist_GBL_e60_L64x64_r4_aleatorio_s1	vetorial_m4_hist_GBL_e60	vetorial	0.55	64	64	4.0	16384	aleatorio	10000	20000	1	0.85521	0.00063	0.5153	0.66661	91.90

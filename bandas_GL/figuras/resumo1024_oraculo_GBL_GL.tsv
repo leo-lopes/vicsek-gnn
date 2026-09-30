@@ -1,0 +1,4 @@
+arq	fonte	phi	chi	binder	m	n	ang_normal	dir_media	nbandas_moda	nbandas_hist	espacamento	c_normal	coerencia	gas_n	pico_n	frente_n	cauda_n	excesso	alavanca	rho_pico	rho_fundo	meia_frente	meia_cauda
+oraculo_vetorial_e0.55_L1024x128_r1_alinhado_s1.npz	oraculo	0.7321	1.674	0.6666	15	0	0	0.08375	16	15:4 16:296	64	0.45	0.9998	0.2136	4.678	4	6	51.3	50.33	4.08	0.2173	6	6
+vetorial_m4_hist_GBL_e60_L1024x128_r1_alinhado_s1.npz	rede_GBL	0.7295	1.852	0.6666	10	1	38.66	40.74	10	9:1 10:299	79.96	0.4507	0.9999	0.2104	5.063	2.999	6.997	63.28	63.14	4.815	0.2119	4.685	7.809
+vetorial_m4_hist_GL_e60_L1024x128_r1_alinhado_s1.npz	rede_GL	0.7265	1.878	0.6666	8	1	45	48.93	8	8:300	90.51	0.4509	0.9999	0.2167	5.202	4	7.001	70.96	70.9	4.997	0.2169	4.243	7.071

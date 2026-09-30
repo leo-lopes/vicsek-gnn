@@ -1,0 +1,2 @@
+data	nome	origem	ruido	eta	Lx	Ly	rho	N	init	transiente	passos	semente	phi	erro	chi	binder	ms_passo
+2026-09-29 23:15	vetorial_m4_hist_GL_e60_L1024x128_r1_alinhado_s1	vetorial_m4_hist_GL_e60	vetorial	0.55	1024	128	1.0	131072	alinhado	100000	30000	1	0.72655	0.00031	1.8784	0.66663	217.27

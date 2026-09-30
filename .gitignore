@@ -1,0 +1,92 @@
+# vicsek-gnn: esta pasta tem ~2 GB de dados de simulação.
+# Lista branca: tudo fica de fora, e só o que está liberado abaixo vai para o GitHub.
+# Para incluir um arquivo novo, acrescente uma linha "!/caminho/do/arquivo".
+
+/*
+
+# raiz: documentação, treino, malha fechada e análise
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/LICENSE
+!/requirements.txt
+!/*.py
+!/*.sh
+/install_torch.py
+/continue_rollouts.sh
+/UPLOAD_CLUSTER.sh
+
+# simulador em C (o binário FV é compilado em cada máquina)
+!/sim/
+/sim/*
+!/sim/*.c
+!/sim/*.h
+!/sim/Makefile
+!/sim/README.md
+
+# leitura, validação e preparação dos dados
+!/python/
+/python/*
+!/python/*.py
+
+# campanha no cluster (SLURM): scripts e grades; out/ e logs/ ficam de fora
+!/cluster/
+/cluster/*
+!/cluster/*.sh
+!/cluster/*.txt
+!/cluster/*.py
+
+# mini-campanha no PC
+!/pc/
+/pc/*
+!/pc/*.py
+
+# divisão treino/validação/teste por semente (o dataset em si fica de fora)
+!/vicsek-dados/
+/vicsek-dados/*
+!/vicsek-dados/bloco2_indice.txt
+
+# modelos treinados: pesos (~90 KB cada), métricas e figuras
+!/runs/
+/runs/*
+!/runs/resultados.tsv
+!/runs/*/
+/runs/*/*
+!/runs/*/modelo.pt
+!/runs/*/resultado.json
+!/runs/*/*.png
+
+# malha fechada 64 x 64: tabela de resultados
+!/rollouts/
+/rollouts/*
+!/rollouts/rollouts.tsv
+
+# bandas (1024 x 128) e varredura 64 x 64: tabelas e figuras; os .npz (~70 MB cada) ficam de fora
+!/bandas/
+/bandas/*
+!/bandas/rollouts.tsv
+!/bandas/figuras/
+/bandas/figuras/*
+!/bandas/figuras/*.png
+!/bandas/figuras/*.tsv
+!/bandas_GL/
+/bandas_GL/*
+!/bandas_GL/rollouts.tsv
+!/bandas_GL/figuras/
+/bandas_GL/figuras/*
+!/bandas_GL/figuras/*.png
+!/bandas_GL/figuras/*.tsv
+!/varredura64_GL/
+/varredura64_GL/*
+!/varredura64_GL/*.png
+!/varredura64_GL/*.tsv
+
+# site do projeto (GitHub Pages, pasta /docs)
+!/docs/
+
+# nunca
+__pycache__/
+*.pyc
+*.npz
+*.log
+.cache/

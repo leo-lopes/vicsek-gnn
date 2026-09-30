@@ -1,0 +1,5 @@
+# Python >= 3.10 (treino, malha fechada e análise). O cluster roda só a camada em shell + Python 3.6 para análise.
+numpy
+scipy
+matplotlib
+torch

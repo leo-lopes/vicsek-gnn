@@ -1,0 +1,5 @@
+data	nome	origem	ruido	eta	Lx	Ly	rho	N	init	transiente	passos	semente	phi	erro	chi	binder	ms_passo
+2026-09-28 23:57	vetorial_m4_hist_GL_e60_L64x64_r0.4_aleatorio_s1	vetorial_m4_hist_GL_e60	vetorial	0.55	64	64	0.4	1638	aleatorio	5000	35000	1	0.43127	0.01486	14.9417	0.61758	29.54
+2026-09-29 00:26	vetorial_m4_hist_GL_e60_L64x64_r0.5_aleatorio_s1	vetorial_m4_hist_GL_e60	vetorial	0.55	64	64	0.5	2048	aleatorio	5000	35000	1	0.60031	0.00422	3.2066	0.66106	43.31
+2026-09-29 00:41	vetorial_m4_hist_GL_e60_L64x64_r0.35_aleatorio_s1	vetorial_m4_hist_GL_e60	vetorial	0.55	64	64	0.35	1434	aleatorio	5000	35000	1	0.24168	0.01502	15.2259	0.47740	23.29
+2026-09-29 00:55	vetorial_m4_hist_GL_e60_L64x64_r0.3_aleatorio_s1	vetorial_m4_hist_GL_e60	vetorial	0.55	64	64	0.3	1229	aleatorio	5000	35000	1	0.13601	0.00707	6.4188	0.30541	20.51

@@ -1,0 +1,5 @@
+data	nome	origem	ruido	eta	Lx	Ly	rho	N	init	transiente	passos	semente	phi	erro	chi	binder	ms_passo
+2026-09-28 00:10	oraculo_vetorial_e0.55_L1024x128_r1_alinhado_s1	oraculo_vetorial_e0.55	vetorial	0.55	1024	128	1.0	131072	alinhado	100000	30000	1	0.73210	0.00030	1.6744	0.66663	32.92
+2026-09-28 09:43	vetorial_m4_hist_GBL_e60_L1024x128_r1_alinhado_s1	vetorial_m4_hist_GBL_e60	vetorial	0.55	1024	128	1.0	131072	alinhado	100000	30000	1	0.72946	0.00034	1.8519	0.66663	264.48
+2026-09-28 10:47	oraculo_angular_e0.40_L1024x128_r1_alinhado_s1	oraculo_angular_e0.40	angular	0.4	1024	128	1.0	131072	alinhado	100000	30000	1	0.30603	0.00198	14.5141	0.66510	29.43
+2026-09-28 17:13	angular_m4_hist_GBL_e60_L1024x128_r1_alinhado_s1	angular_m4_hist_GBL_e60	angular	0.4	1024	128	1.0	131072	alinhado	100000	30000	1	0.28179	0.00225	17.0468	0.66452	177.91

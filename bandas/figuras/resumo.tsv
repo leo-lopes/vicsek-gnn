@@ -1,0 +1,5 @@
+arq	ruido	fonte	phi	chi	binder	m	n	lam	ang_normal	dir_media	nbandas_moda	nbandas_media	nbandas_hist	c_normal	coerencia	rho_pico	rho_fundo	meia_frente	meia_cauda
+oraculo_vetorial_e0.55_L1024x128_r1_alinhado_s1.npz	vetorial	oraculo	0.7321	1.674	0.6666	15	0	68.27	0	0.08375	16	15.99	15:4 16:296	0.45	0.9998	4.08	0.2173	6	6
+vetorial_m4_hist_GBL_e60_L1024x128_r1_alinhado_s1.npz	vetorial	rede	0.7295	1.852	0.6666	10	1	79.96	38.66	40.74	10	9.997	9:1 10:299	0.4507	0.9999	4.815	0.2119	4.685	7.809
+oraculo_angular_e0.40_L1024x128_r1_alinhado_s1.npz	angular	oraculo	0.306	14.51	0.6651	2	0	512	0	0.1252	2	2	2:300	0.3921	1	4.385	0.5951	20	34
+angular_m4_hist_GBL_e60_L1024x128_r1_alinhado_s1.npz	angular	rede	0.2818	17.05	0.6645	1	0	1024	0	3.727	1	1	1:300	0.3939	1	4.711	0.6253	30	68

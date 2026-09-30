@@ -1,0 +1,67 @@
+{
+ "nome": "angular_m0",
+ "args": {
+  "dados": "/mnt/d/vicsek-gnn/vicsek-dados/dataset_bloco2",
+  "ruido": "angular",
+  "modelo": "m0",
+  "estados": "GBL",
+  "cabeca": "hist",
+  "bins": 100,
+  "oculto": 64,
+  "epocas": 20,
+  "lote": 4096,
+  "lr": 0.002,
+  "frac": 1.0,
+  "semente": 0,
+  "tag": "",
+  "runs": "runs"
+ },
+ "melhor_epoca": 0,
+ "parametros": 0,
+ "validacao": {
+  "G": {
+   "nll": 0.9215863345351905,
+   "oraculo": 0.9215863345351905,
+   "gap": 0.0,
+   "erro_mu_graus": 0.0,
+   "amostras": 40960
+  },
+  "B": {
+   "nll": 0.9215863345351905,
+   "oraculo": 0.9215863345351905,
+   "gap": 0.0,
+   "erro_mu_graus": 0.0,
+   "amostras": 40960
+  },
+  "L": {
+   "nll": 0.9215863345351905,
+   "oraculo": 0.9215863345351905,
+   "gap": 0.0,
+   "erro_mu_graus": 0.0,
+   "amostras": 40960
+  }
+ },
+ "teste": {
+  "G": {
+   "nll": 0.9215863345351905,
+   "oraculo": 0.9215863345351905,
+   "gap": 0.0,
+   "erro_mu_graus": 0.0,
+   "amostras": 40960
+  },
+  "B": {
+   "nll": 0.9215863345351905,
+   "oraculo": 0.9215863345351905,
+   "gap": 0.0,
+   "erro_mu_graus": 0.0,
+   "amostras": 40960
+  },
+  "L": {
+   "nll": 0.9215863345351905,
+   "oraculo": 0.9215863345351905,
+   "gap": 0.0,
+   "erro_mu_graus": 0.0,
+   "amostras": 40960
+  }
+ }
+}
