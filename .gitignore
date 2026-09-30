@@ -81,8 +81,12 @@
 !/varredura64_GL/*.png
 !/varredura64_GL/*.tsv
 
-# site do projeto (GitHub Pages, pasta /docs)
+# site do projeto (GitHub Pages, pasta /docs) e scripts do vídeo (reimplementação do M4 em NumPy)
 !/docs/
+!/site/
+/site/*
+!/site/*.py
+!/site/*.md
 
 # nunca
 __pycache__/

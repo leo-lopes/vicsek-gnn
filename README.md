@@ -1,6 +1,6 @@
 # Vicsek + GNN: uma rede neural aprende a regra de um bando
 
-**[Site com os resultados e gráficos interativos](https://SEU-USUARIO.github.io/vicsek-gnn/)** · C · SLURM · Python · PyTorch
+**[Site com os resultados e gráficos interativos](https://leo-lopes.github.io/vicsek-gnn/)** · C · SLURM · Python · PyTorch
 
 Treinei redes neurais em grafo (GNNs) para imitar, um passo de cada vez, as partículas do modelo de Vicsek. Depois tirei a regra verdadeira e deixei a rede conduzir o sistema sozinha, em malha fechada. A pergunta era se o comportamento coletivo reaparece: ordem, flutuações e as bandas densas que atravessam o sistema. Reaparece, inclusive numa rede treinada sem nunca ter visto uma banda.
 
